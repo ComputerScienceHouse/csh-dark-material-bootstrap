@@ -1,6 +1,6 @@
 # CSH Dark Material Bootstrap
 
-A [Bootstrap](http://getbootstrap.com) material theme designed for use on [Computer Science House](http://csh.rit.edu) websites. Based on [Materia](https://bootswatch.com/materia) by [Bootswatch](https://bootswatch.com).
+A [Bootstrap](http://getbootstrap.com) material theme designed for use on [Computer Science House](http://csh.rit.edu) websites. Based on [Darkly](https://bootswatch.com/darkly) by [Bootswatch](https://bootswatch.com).
 
 ## Demo
 A live demo of this theme that showcases most components can be found [here](https://s3.csh.rit.edu/csh-dark-material-bootstrap/4.3.1/index.html).
