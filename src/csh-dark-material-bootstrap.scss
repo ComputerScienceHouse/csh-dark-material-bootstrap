@@ -11,6 +11,11 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700"
 
 // Navbar ======================================================================
 
+.navbar {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
 .navbar-brand {
   font-size: 24px;
   padding-left: 3.2rem;
